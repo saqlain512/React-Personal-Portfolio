@@ -12,7 +12,7 @@ const Navbar = () => {
     return (
         <div className='fixed w-full h-20 flex justify-between items-center px-4 bg-[#0a192f]'>
             <div>
-                <img src="" alt="" />
+               <a href="/" className='text-[#8892b0] pl-5 font-extrabold text-2xl'>Resume</a>
             </div>
             {/* menu */}
 
