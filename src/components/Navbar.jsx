@@ -12,7 +12,7 @@ const Navbar = () => {
     return (
         <div className='fixed w-full h-20 flex justify-between items-center px-4 bg-[#0a192f]'>
             <div>
-               <a href="https://drive.google.com/file/d/1gq4uocqnxIxJOLGg1wqD-2Z_KITi9Lo-/view?usp=sharing" className='text-[#8892b0] pl-5 font-extrabold text-2xl'>Resume</a>
+               <a href="https://drive.google.com/file/d/1gq4uocqnxIxJOLGg1wqD-2Z_KITi9Lo-/view?usp=sharing" className='text-[#8892b0] pl-5 font-extrabold text-2xl hover:scale-110 duration-500'>Resume</a>
             </div>
             {/* menu */}
 
